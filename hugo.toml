@@ -18,6 +18,7 @@ paginate = 10
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
+  ShowPageNums = true
 
 [params.homeInfoParams]
   Title = "안녕하세요"
