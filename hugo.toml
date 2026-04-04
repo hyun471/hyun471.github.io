@@ -1,0 +1,37 @@
+baseURL = "https://hyun471.github.io/"
+languageCode = "ko-kr"
+title = "hyun471's blog"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  env = "production"
+  description = "Flutter, AI, 개발 기록"
+  author = "hyun471"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[params.homeInfoParams]
+  Title = "안녕하세요"
+  Content = "Flutter, AI, 개발 공부 기록을 남기는 블로그입니다."
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/hyun471"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
