@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# 📚 JSON
-
 ## JSON이란?
 
 - JSON(JavaScript Object Notation) : JavaScript의 객체 표기 방식 기반의 문자열 형식 데이터 구조
