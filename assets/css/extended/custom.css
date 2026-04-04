@@ -1,10 +1,6 @@
 /* 홈 인트로와 글 목록 사이 여백 축소 */
-.home-info {
-  margin-bottom: 12px;
-}
-
-.first-entry {
-  margin-top: 0;
+.first-entry.home-info {
+  margin-bottom: var(--gap) !important;
 }
 
 /* 섹션 칩 */
