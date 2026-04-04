@@ -31,3 +31,26 @@
   background-color: var(--primary);
   color: var(--theme);
 }
+
+/* 페이지 번호 */
+.page-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: var(--primary);
+}
+
+.page-num:hover {
+  background-color: var(--border);
+}
+
+.page-num.current {
+  background-color: var(--primary);
+  color: var(--theme);
+  font-weight: 600;
+}
