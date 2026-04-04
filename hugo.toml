@@ -12,13 +12,15 @@ paginate = 10
   description = "Flutter, AI, 개발 기록"
   author = "hyun471"
   defaultTheme = "auto"
-  ShowReadingTime = true
+  ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
   ShowPageNums = true
+  hideSummary = true
+  mainSections = ["posts"]
 
 [params.homeInfoParams]
   Title = "안녕하세요"
