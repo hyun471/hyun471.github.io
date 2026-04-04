@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# assignment 1 심화 도전
-
 # 💡 Console Shopping mall 심화 도전
 
 ## Console Shoppingmall 프로젝트 심화 도전 기능
@@ -145,4 +143,3 @@ void showTotal() {
 - 깨달은 점
 - 개선이 필요한 부분
 - 앞으로의 학습 계획
-# 📒 New 용어 정리

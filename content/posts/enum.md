@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# enum
-
 # 📚 Enumerations(열거형)
 
 ## enum(Enumerations : 열거형)
@@ -115,4 +113,3 @@ void main() {
   - enum : 의미 있는 고정된 항목들을 타입으로 정의할 때
   - List : 순서 있는 데이터 모음을 다룰 때
   - Set : 순서 없고 중복 없는 데이터 모음을 다룰 때
-# 📒 New 용어 정리

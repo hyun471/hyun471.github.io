@@ -5,8 +5,6 @@ date: "2026-04-04"
 tags: ["트러블슈팅", "Hugo", "GitHub Pages", "GitHub Actions"]
 ---
 
-# Hugo GitHub Pages 세팅 트러블슈팅
-
 Hugo + GitHub Pages 블로그 자동화 세팅 중 발생한 문제들과 해결 방법을 정리한다.
 
 ---

@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# Supabase 로그인 연동
-
 # 📚 Supabase 로그인 연동 (google, apple)
 
 ## Supabase Google 로그인 연동
@@ -157,8 +155,3 @@ await Supabase.instance.client.auth.signInWithOAuth(
 AndroidManifest.xml의 스킴://호스트 == redirectTo:의 스킴://호스트
     - ios는 Info.plist에 등록된 CFBundleURLSchemes의 Value값에 등록된 스킴이 동일해야함
 Info.plist의 스킴 == redirectTo:의 스킴
-# 📝 치트시트
-
-## 📕 New 위젯 정리 :
-
-## 📒 New 용어 정리

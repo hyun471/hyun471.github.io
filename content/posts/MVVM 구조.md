@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# MVVM 구조
-
 # 📚 MVVM 구조
 
 ## MVVM이란
@@ -49,9 +47,3 @@ type: "posts"
     │   └── result_page.dart     // result 화면 페이지 구성 로직
 
 ```
-
-# 📝 치트시트
-
-## 📕 New 위젯 정리 :
-
-## 📒 New 용어 정리

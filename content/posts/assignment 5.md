@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# assignment 5
-
 # 📚 영화 정보 앱
 
 ## 영화 정보 앱
@@ -323,9 +321,3 @@ class HomeViewModel extends Notifier<HomeState> {
                   children: [
                   ...
 ```
-
-# 📝 치트시트
-
-## 📕 New 위젯 정리 :
-
-## 📒 New 용어 정리

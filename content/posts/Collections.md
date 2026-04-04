@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# Collections
-
 # 📚 Collections 살펴보기
 
 ## Collections이란?
@@ -131,5 +129,3 @@ void main() {
   print(dog.values);               // (초코, 3)
 }
 ```
-
-# 📒 New 용어 정리

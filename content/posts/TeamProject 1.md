@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# TeamProject 1
-
 # 📚 쇼핑몰 앱
 
 ## 새롭게 알게 된 정보
@@ -28,7 +26,6 @@ Column(
     ),
   ],
 )
-
 
 ```
 
@@ -311,8 +308,3 @@ print(newMap);  // {banana: 5, cherry: 7}
 - 원인 : 
   - cart.entries.toList를 하게되면 타입이 Map<Poster, int>에서 MapEntry<Poster, int>타입으로 변경되어 받아야 하는 타입인 Map<Poster, int>와 타입이 맞지 않아 오류가 발생
 - 해결 : 받아야 하는 타입을 Map<Poster, int>에서 MapEntry<Poster, int>타입으로 변경
-# 📝 치트시트
-
-## 📕 New 위젯 정리 :
-
-## 📒 New 용어 정리

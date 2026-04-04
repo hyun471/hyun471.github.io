@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# JSON
-
 # 📚 JSON
 
 ## JSON이란?
@@ -277,8 +275,3 @@ class Pet {
 ```
 
 - 일반 생성자 vs 네임드 생성자 vs factory 네임드 생성자
-# 📝 치트시트
-
-## 📕 New 위젯 정리 :
-
-## 📒 New 용어 정리

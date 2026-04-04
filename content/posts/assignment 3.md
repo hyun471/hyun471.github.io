@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# assignment 3
-
 # 📚 기차 예매 서비스 구현하기
 
 ## 새롭게 알게 된 정보
@@ -526,9 +524,3 @@ class MyBookingsPage extends StatelessWidget {
         ),
       ),
 ```
-
-# 📝 치트시트
-
-## 📕 New 위젯 정리 :
-
-## 📒 New 용어 정리

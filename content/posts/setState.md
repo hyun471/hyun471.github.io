@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# setState
-
 # 📚 setState 상태 관리 한계
 
 ## StatefulWidget의 setState 상태 관리 및 한계
@@ -109,4 +107,3 @@ import 'package:provider/provider.dart';
                                                        코드를 연결 해주는 고급 주제
   - 접근성 : 앱 사용 편의성과 관련된 설정이나 OS 레벨 지원 기능을 다루는 영역
   - 국제화 : Flutter 앱을 여러 언어와 지역에 맞게 표시할 수 있도록 준비하는 과정
-# 📒 New 용어 정리

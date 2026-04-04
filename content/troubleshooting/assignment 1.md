@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "troubleshooting"
 ---
 
-# assignment 1
-
 # 💡 Console Shopping mall
 
 ## Console Shopping mall 트러블슈팅 과정
@@ -71,4 +69,3 @@ cart[selectedItem] = count;
 
 - 프로젝트에서 메서드 : 상품 출력(showProducts), 장바구니에 담는(addToCart), 총 가격(showTotal)을 Shoppingmall 클래스에 넣어야 하는데 넣어서 구현하지 못해서 조금 아쉽다.
 - 도전 과제를 진행해 보지 못해서 아쉽다.
-# 📒 New 용어 정리

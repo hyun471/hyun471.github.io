@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# Layout 위젯
-
 # 📚 위젯의 종류 2
 
 ## Layout 구성 위젯
@@ -243,5 +241,3 @@ class MyApp extends StatelessWidget {     // MyApp는 앱 전체를 정의하는
     // home: 앱이 시작될 때 첫 화면 위젯
     // Scaffold는 Flutter 앱의 화면 뼈대를 구성하는 기본 틀
 ```
-
-# 📒 New 용어 정리

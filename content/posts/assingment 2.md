@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# assingment 2
-
 # 📚 Console Battle RPG
 
 ## 새롭게 알게 된 정보
@@ -163,5 +161,3 @@ player!.hp -= 10; // 확신이 있을 때만 !
 ```dart
 player?.show(); // player가 null이 아니면 호출
 ```
-
-# 📒 New 용어 정리

@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# API 및 Firebase서버 연동
-
 # 📚 API 및 서버 연동
 
 ## API 연동
@@ -340,8 +338,3 @@ final docs = result.docs;
 **예외 처리**
 
 - C.R.U.D 메서드는 try catch로 예외 처리하여 에러 방지
-# 📝 치트시트
-
-## 📕 New 위젯 정리 :
-
-## 📒 New 용어 정리

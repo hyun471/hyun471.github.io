@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# Github 협업
-
 # 📚 Github 사용법 (with VSCode)
 
 **기본 세팅**

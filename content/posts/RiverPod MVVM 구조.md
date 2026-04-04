@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# RiverPod MVVM 구조
-
 # 📚 RiverPod 상태관리
 
 - Provider / riverpod 상태 관리 정리 링크
@@ -653,8 +651,3 @@ ElevatedButton(
 
 - 기본 형태 : ref.도구(Provider);
 - 뷰모델의 메서드를 사용할 경우 : ref.도구(Provider.notifier).메서드();
-# 📝 치트시트
-
-## 📕 New 위젯 정리 :
-
-## 📒 New 용어 정리

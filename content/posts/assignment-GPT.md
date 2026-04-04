@@ -5,8 +5,6 @@ date: "2026-04-04"
 type: "posts"
 ---
 
-# assignment-GPT
-
 # 💡  ChatGPT Assignment
 
 ## ChatGPT Assignment
@@ -82,4 +80,3 @@ type: "posts"
   - 반납 메서드를 실행하면 반납할 도서명을 입력한다.
   - 입력된 도서명과 myRental에 있는 도서명이 일치하면 myRental에 있는 도서명을 지운다.
   - 일치하지 않으면 “도서명이 올바르지 않습니다.” 출력
-# 📒 New 용어 정리
