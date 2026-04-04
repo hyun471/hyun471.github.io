@@ -1,4 +1,5 @@
 ---
+title: "View 위젯"
 status: "published"
 date: "2026-04-04"
 type: "posts"

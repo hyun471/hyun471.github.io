@@ -1,4 +1,5 @@
 ---
+title: "노션 TIL을 벨로그에 자동 업로드하려다 실패한 이야기"
 status: "published"
 date: "2026-04-04"
 type: "troubleshooting"

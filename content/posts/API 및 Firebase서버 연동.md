@@ -1,4 +1,5 @@
 ---
+title: "API 및 Firebase서버 연동"
 status: "published"
 date: "2026-04-04"
 type: "posts"

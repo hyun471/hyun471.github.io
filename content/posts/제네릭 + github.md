@@ -1,4 +1,5 @@
 ---
+title: "제네릭 + github"
 status: "published"
 date: "2026-04-04"
 type: "posts"

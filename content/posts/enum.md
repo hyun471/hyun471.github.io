@@ -1,4 +1,5 @@
 ---
+title: "enum"
 status: "published"
 date: "2026-04-04"
 type: "posts"

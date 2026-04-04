@@ -1,4 +1,5 @@
 ---
+title: "assignment 1 심화 도전"
 status: "published"
 date: "2026-04-04"
 type: "posts"
