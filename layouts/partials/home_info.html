@@ -5,13 +5,13 @@
     </header>
     <div class="entry-content">
         {{ .Content | markdownify }}
+    </div>
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
         <div class="home-chips">
             <a href="/posts/" class="chip">Post</a>
             <a href="/troubleshooting/" class="chip">Troubleshooting</a>
         </div>
-    </div>
-    <footer class="entry-footer">
-        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
 </article>
 {{- end -}}
