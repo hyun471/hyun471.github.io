@@ -18,7 +18,7 @@ paginate = 10
 
 [params.homeInfoParams]
   Title = "안녕하세요"
-  Content = "Flutter, AI, 개발 공부 기록을 남기는 블로그입니다.\n\n<div class=\"home-chips\"><a href=\"/posts/\" class=\"chip\">기술 블로그</a><a href=\"/troubleshooting/\" class=\"chip\">트러블슈팅</a></div>"
+  Content = "Flutter, AI, 개발 공부 기록을 남기는 블로그입니다.\n\n<div class=\"home-chips\"><a href=\"/posts/\" class=\"chip\">Post</a><a href=\"/troubleshooting/\" class=\"chip\">Troubleshooting</a></div>"
 
 [[params.socialIcons]]
   name = "github"
@@ -26,17 +26,7 @@ paginate = 10
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "기술 블로그"
-    url = "/posts/"
-    weight = 10
-  [[menu.main]]
-    identifier = "troubleshooting"
-    name = "트러블슈팅"
-    url = "/troubleshooting/"
-    weight = 20
-  [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 30
+    weight = 10
