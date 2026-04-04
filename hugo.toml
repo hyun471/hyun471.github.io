@@ -1,11 +1,11 @@
 baseURL = "https://hyun471.github.io/"
-
-[markup.goldmark.renderer]
-  unsafe = true
 languageCode = "ko-kr"
 title = "hyun471's blog"
 theme = "PaperMod"
 paginate = 10
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   env = "production"
