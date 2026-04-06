@@ -19,7 +19,6 @@ paginate = 10
   ShowCodeCopyButtons = true
   ShowToc = true
   ShowPageNums = true
-  hideSummary = true
   mainSections = ["posts"]
 
 [params.homeInfoParams]
