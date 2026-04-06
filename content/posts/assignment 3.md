@@ -160,8 +160,6 @@ final lightTheme = ThemeData(              // lightTheme에 사용될 내용
  // 이러면 이 Container는 해당 테마의 hoverColor의 색으로 나옴
 ```
 
-**async, await**
-
 ## 기차 예매 서비스
 
 ![](/images/25_assignment 3/img_01.png)

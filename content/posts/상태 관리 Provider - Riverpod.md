@@ -71,8 +71,6 @@ void main() {
 }
 ```
 
-- Provider에서 자주 사용되는 옵션
-- Provider를 쓸 때 UI를 빌드하는데 자주 사용되는 도우미 메서드들
 - Provider의 주요 단점
   - context에 의존함 : 상태를 읽으려면 항상 BuildContext가 필요
   - 테스트의 어려움 : 위젯에 의존적이라 테스트 코드 작성이 불편

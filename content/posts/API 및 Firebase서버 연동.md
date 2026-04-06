@@ -46,8 +46,8 @@ class BookRepository {
       ),
       // 어떤 곳에서 요청했는지 알 수 있는 ID와 Secret 넣기
       headers: {
-        'X-Naver-Client-Id': '여기에 ID',
-        'X-Naver-Client-Secret': '여기에 Secret',
+        'X-Naver-Client-Id': 'YOUR_CLIENT_ID',
+        'X-Naver-Client-Secret': 'YOUR_CLIENT_SECRET',
       },
     );
 ```

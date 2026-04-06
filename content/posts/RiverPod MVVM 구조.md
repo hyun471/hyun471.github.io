@@ -77,8 +77,8 @@ class BookRepository {
       ),
       // 어떤 곳에서 요청했는지 알 수 있는 ID와 Secret 넣기 (필수)
       headers: {
-        'X-Naver-Client-Id': '여기에 ID',
-        'X-Naver-Client-Secret': '여기에 Secret',
+        'X-Naver-Client-Id': 'YOUR_CLIENT_ID',
+        'X-Naver-Client-Secret': 'YOUR_CLIENT_SECRET',
       },
     );
 ```
@@ -111,7 +111,7 @@ final items = List.from(map['items']);
 - Firebase의 경우 데이터를 Map타입으로 받아서 변환이 필요 없음
 **Map → Model 클래스로 변환 (fromJson)**
 
-**API의 데이터 **
+**API의 데이터**
 
 - Map → Model 객체로 변환
 ```dart

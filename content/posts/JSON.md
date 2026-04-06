@@ -272,4 +272,3 @@ class Pet {
 
 ```
 
-- 일반 생성자 vs 네임드 생성자 vs factory 네임드 생성자

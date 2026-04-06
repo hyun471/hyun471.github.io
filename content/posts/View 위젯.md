@@ -122,7 +122,6 @@ TabController 또는 DefaultTabController
     └── children: List<Widget>   // 각 탭에 해당하는 실제 화면들 (ex: HomePage() 등)
 ```
 
-- TabController에서 자주 쓰는 변수 옵션
 - TabBar 위젯에서 자주 사용되는 옵션
 ```dart
 TabBar(

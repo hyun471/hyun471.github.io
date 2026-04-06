@@ -138,8 +138,3 @@ void showTotal() {
 - toUpperCase()라는 함수는 문자열에 있는 모든 소문자를 대문자로 변환해 주는 함수이다.
 - 변수의 타입이 String? 이므로 null일수 도 있다는 표시인 변수에 ?를 붙인 다음 메서드 체이닝을 통해  exitRun?.toUpperCase() 으로 구현해야한다.
 - toUpperCase()함수의 반대 의미인 toLowerCase()라는 함수도 존재한다. 
-# 🤔 회고
-
-- 깨달은 점
-- 개선이 필요한 부분
-- 앞으로의 학습 계획

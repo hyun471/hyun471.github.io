@@ -61,8 +61,7 @@ ListView.builder(
 
 **Dismissible : 자식 위젯을 좌우로 스와이프해서 제거할 수 있게 해주는 기능성 위젯**
 
-- Dismissible 속성
-- 예시 코드 
+- 예시 코드
 ```dart
 Dismissible(
   key: ValueKey('item1'),
