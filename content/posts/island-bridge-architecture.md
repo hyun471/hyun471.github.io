@@ -1,7 +1,10 @@
 ---
-status: "published"
+title: "Island Bridge Architecture"
 date: "2026-04-09"
+description: "AI 에이전트의 토큰 효율과 작업 정확도를 극대화하기 위해 직접 설계한 아키텍처 패턴"
+tags: ["아키텍처", "AI", "설계", "토큰최적화"]
 type: "posts"
+status: "published"
 ---
 
 # Island Bridge Architecture (IBA)

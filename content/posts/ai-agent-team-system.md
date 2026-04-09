@@ -1,7 +1,10 @@
 ---
-status: "published"
+title: "AI 에이전트 팀 시스템 구축기"
 date: "2026-04-09"
+description: "Claude Code Sub-Agent로 기획·개발·디자인 역할을 나눈 나만의 AI 팀을 만든 과정"
+tags: ["AI", "Claude", "에이전트", "자동화"]
 type: "posts"
+status: "published"
 ---
 
 # AI 에이전트 팀 시스템 구축기
