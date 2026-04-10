@@ -1,7 +1,7 @@
 ---
 status: "published"
 title: "Claude Code로 AI 에이전트 팀을 만들었는데, 대화가 끊긴다?"
-date: "2026-04-09"
+date: "2026-04-10"
 description: "Claude Code에서 AI 에이전트 팀을 구성할 때 발생하는 세션 지속성 문제를 세 가지 방법으로 탐구하고, CLAUDE.md와 서브에이전트를 결합한 현실적인 해결책을 소개한다."
 tags: ["ClaudeCode", "AI에이전트", "LLM", "개발환경", "자동화"]
 type: "posts"
